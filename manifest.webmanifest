@@ -1,0 +1,17 @@
+{
+  "name": "nook · 东西放哪儿了",
+  "short_name": "nook",
+  "description": "拍张照，写下它放在哪。以后想不起来，搜一下就找到。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FDFDFB",
+  "background_color": "#FDFDFB",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
